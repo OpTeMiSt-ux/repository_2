@@ -1,0 +1,27 @@
+a {
+    text-decoration: none;
+    display: block;
+    color: #FFFFFF;
+    background-color:#1E90FF;
+    padding: 2.5em;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-size:18px;
+    width: 90px;
+}
+a:hover {
+    background-color: #00BFFF;
+}
+
+a:focus {
+    outline: none;
+    background-color: #00BFFF;
+}
+
+#id_2 {
+    width: 80px;
+}
+
+p {
+    margin: 18px;
+}
